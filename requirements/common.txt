@@ -13,7 +13,7 @@ docker-compose==1.21.0
 drfdocs==0.0.11
 pika==0.10.0
 pickleshare==0.7.4
-Pillow==3.4.2
+Pillow==7.1.0
 psycopg2==2.7.3.2
 PyYaml==3.12
 proc==0.10.1
